@@ -142,7 +142,7 @@ import { Icon } from '@iconify/vue';
       </button>
       <button class="w-full">
         <p class="hidden">tes</p>
-        <a class="text-gray-400" aria-label="Whatsapp"  href="https://api.whatsapp.com/send?phone=6285600163725" target="_blank" rel="noreferrer">
+        <a class="text-gray-400" aria-label="Whatsapp"  href="https://api.whatsapp.com/send?phone=6285803619114" target="_blank" rel="noreferrer">
           <Icon class="lg:w-[50px] lg:h-[50px] p-2 hover:bg-zinc-600 hover:text-white hover:rounded-lg" icon="mi:call" />
         </a>
       </button>

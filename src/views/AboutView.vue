@@ -86,12 +86,12 @@ export default {
 
       <div class="hover:bg-zinc-700 rounded-lg text-justify text-lg pr-4 pl-4 pb-2 pt-2">
         <button class="w-full">
-          <a aria-label="Whatsapp" class="text-gray-400" href="https://api.whatsapp.com/send?phone=6285600163725"
+          <a aria-label="Whatsapp" class="text-gray-400" href="https://api.whatsapp.com/send?phone=6285803619114"
             target="_blank" rel="noreferrer">
             <div
               class="border-2 border-gray-400 rounded-lg p-2 grid grid-cols-[30px_minmax(0px,auto)] place-items-center">
               <Icon class="w-[30px] h-[30px]" icon="mi:call" />
-            <p>+62 856-0016-3725</p>
+            <p>+62 858-0361-9114</p>
           </div>
         </a>
       </button>
